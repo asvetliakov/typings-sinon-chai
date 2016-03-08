@@ -1,0 +1,9 @@
+{
+  "name": "sinon-chai",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/domenic/sinon-chai",
+  "dependencies": {
+    "chai": "github:typed-typings/npm-chai#536036f23802047ace17b0bdbe5d51ab047dddd3",
+    "sinon": "github:typed-typings/npm-sinon#6cff4e3351276e85785f97cd55d810ebdf7e842e"
+  }
+}
