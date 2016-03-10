@@ -3,7 +3,7 @@
   "main": "index",
   "homepage": "https://github.com/domenic/sinon-chai",
   "dependencies": {
-    "chai": "github:asvetliakov/npm-chai",
-    "sinon": "github:typed-typings/npm-sinon#6cff4e3351276e85785f97cd55d810ebdf7e842e"
+    "chai": "registry:npm/chai#3.4.0+20160308201903",
+    "sinon": "registry:npm/sinon#1.16.0+20160309002336"
   }
 }
